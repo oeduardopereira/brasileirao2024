@@ -8,6 +8,9 @@ public class Brasileirao2024Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Brasileirao2024Application.class, args);
+//		Controller c = new Controller();
+//		c.home();
+
 	}
 
 }
